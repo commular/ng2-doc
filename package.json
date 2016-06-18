@@ -25,7 +25,8 @@
   "homepage": "https://github.com/commular/ng2-doc#readme",
   "dependencies": {
     "ember-cli": "^2.6.1",
-    "opn": "^4.0.2"
+    "opn": "^4.0.2",
+    "commander": "^2.5.0"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
